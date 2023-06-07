@@ -6,40 +6,38 @@
   box-sizing: border-box;
 }
 
-body {
-  min-width: 375px;
-}
+body { min-width: 375px; }
 
-.content {
-  background: #1C1A19;  
-}
+.content { background: #1c1a19; }
 
-.header{
+.header {
   display: flex;
   justify-content: space-between;
-  background: #3C3A39;
-  color:#fff;  
+  background: #3c3a39;
+  color: #fff;
 }
 
-#logo{
+#logo {
   text-align: center;
   text-decoration: none;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 24px;
   color: #fff;
+
   /* Icons/Icon - Menu */
   width: 24px;
-  height: 24px;    
+  height: 24px;
+
   /* Inside auto layout */
   flex: none;
   order: 0;
   flex-grow: 0;
 }
 
-.welcome{
+.welcome {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -48,71 +46,72 @@ body {
   position: absolute;
   width: 375px;
   height: 590px;
-  left: 0px;
-  top: 92px;  
+  top: 92px;
 }
 
-.main-title{
+.main-title {
   width: 327px;
   height: 124px;
-  font-family: 'Crete Round';
+  font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
   line-height: 114%;
-  letter-spacing: 0.37px;    
-  color: #FF6B00;
+  letter-spacing: 0.37px;
+  color: #ff6b00;
+
   /* Inside auto layout */
   flex: none;
   order: 0;
   flex-grow: 0;
-
 }
 
-.sub-title{
-    /* Supporting Text */
+.sub-title {
+  /* Supporting Text */
   width: 327px;
   height: 27px;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
   line-height: 133%;
   display: flex;
   align-items: center;
-  color: #FFF5E1;
+  color: #fff5e1;
+
   /* Inside auto layout */
   flex: none;
   order: 1;
-  flex-grow: 0;    
-
+  flex-grow: 0;
 }
 
-.info{
+.info {
   /* Description */
   width: 327px;
   height: 123px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
-  color: #FFF;    
-  /* Inside auto layout */    
+  color: #fff;
+
+  /* Inside auto layout */
   flex: none;
   order: 2;
   flex-grow: 0;
-
 }
 
-.contact-links{
+.contact-links {
   display: flex;
   list-style-type: none;
 }
-#profile{
+
+#profilei {
   padding: 5px;
   background-color: transparent;
 }
+
 #profile:hover {
   background-color: #3c3a39;
 }
