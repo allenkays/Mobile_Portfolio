@@ -46,8 +46,6 @@ ventures.
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Mobile First Development**
 - **Flex box**
 - **HTML5 Semantics**
@@ -56,7 +54,8 @@ ventures.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+No live Demo yet.
+<!-- [Live Demo Link](https://google.com)-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,8 +128,6 @@ You can deploy this project using:
 - Twitter: [@twitterhandle](https://twitter.com/allenkays)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/allan-sang)
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Desktop development]**
@@ -152,8 +149,6 @@ Feel free to check the [issues page](../../issues/).
 If you like this project feel free to give a star and follow on github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
